@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm delbyte</h1>
+<h1 align="center">Hi, I'm delbyte</h1>
 <h3 align="center">A student learning to code better</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delbyte&label=Profile%20views&color=0e75b6&style=flat" alt="delbyte" /> </p>
 
 - 🔭 I’m currently working on **an interactive map to show you a place's environmental info**
 
-- 🌱 I’m currently learning **Rust, ML, Webdev, Kotlin**
+- 🌱 I’m currently learning **Rust, ML**
 
-- 🤝 I’m looking for help with **Webdev stuff on any kind**
+- 🤝 I’m looking for help with **learning webdev and getting into Web3**
 
 - 💬 Ask me about **Python, C**
 
