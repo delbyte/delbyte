@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delbyte&label=Profile%20views&color=0e75b6&style=flat" alt="delbyte" /> </p>
 
-- 🔭 I’m currently working on **an interactive map to show you a place's environmental info**
+- 🔭 I’m currently working on **a local first productivity tracker that helps you stick to your goals**
 
 - 🌱 I’m currently learning **Rust, ML**
 
