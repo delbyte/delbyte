@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delbyte&label=Profile%20views&color=0e75b6&style=flat" alt="delbyte" /> </p>
 
-- 🔭 I’m currently working on **a local first productivity tracker that helps you stick to your goals**
+- 🔭 I’m currently working on **making an AI that can play geoguessr using an insane amount of data**
 
-- 🌱 I’m currently learning **Rust, ML**
+- 🌱 I’m currently learning **Rust, ML, Blockchain**
 
-- 🤝 I’m looking for help with **learning webdev and getting into Web3**
+- 🤝 I’m looking for help with **learning WebDev and getting into Web3**
 
-- 💬 Ask me about **Python, C**
+- 💬 Ask me about **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
