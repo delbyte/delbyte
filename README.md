@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm delbyte</h1>
-<h3 align="center">A student learning to code better</h3>
+<h3 align="center">A passionate coder and serial launcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delbyte&label=Profile%20views&color=0e75b6&style=flat" alt="delbyte" /> </p>
 
