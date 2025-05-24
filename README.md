@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delbyte&label=Profile%20views&color=0e75b6&style=flat" alt="delbyte" /> </p>
 
-- 🔭 I’m currently working on **making an AI that can play geoguessr using an insane amount of data**
+- 🔭 I’m currently working on **migrating Donex to web3 infra**
 
 - 🌱 I’m currently learning **Rust, ML, Blockchain**
 
