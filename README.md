@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm delbyte</h1>
-<h3 align="center">A passionate coder and serial launcher</h3>
+<h3 align="center">I build products and websites that people love.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delbyte&label=Profile%20views&color=0e75b6&style=flat" alt="delbyte" /> </p>
 
-- 🔭 I’m currently working on **migrating Donex to web3 infra**
+- 🔭 I’m currently working on **a secret project for 30 days**
 
 - 🌱 I’m currently learning **Rust, ML, Blockchain**
 
-- 🤝 I’m looking for help with **learning WebDev and getting into Web3**
+- 🤝 I’m looking for help with **breaking into Web3**
 
 - 💬 Ask me about **Python**
 
