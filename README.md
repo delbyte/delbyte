@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust, ML, Blockchain**
 
-- 🤝 I’m looking for help with **breaking into Web3**
+- 🤝 I’m looking for help with **breaking into AI**
 
 - 💬 Ask me about **Python**
 
