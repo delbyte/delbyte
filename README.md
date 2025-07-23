@@ -3,17 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delbyte&label=Profile%20views&color=0e75b6&style=flat" alt="delbyte" /> </p>
 
-- 🔭 I’m currently working on **a secret project for 30 days**
+- I’m currently working on **identifying and preventing systemic misalignment in LLMs**
 
-- 🌱 I’m currently learning **Rust, ML, Blockchain**
+- I’m currently learning **Rust for ML**
 
-- 🤝 I’m looking for help with **breaking into AI**
+- I’m looking for help with **breaking into AI**
 
-- 💬 Ask me about **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/delbyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blazed0utcodes" height="30" width="40" /></a>
+<a href="https://x.com/delbyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="delbyte" height="30" width="40" /></a>
 <a <a href="https://www.linkedin.com/in/delbyte/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
