@@ -1,23 +1,18 @@
-<h1 align="center">hi, i'm delbyte</h1>
-<h3 align="center">i build stuff that people love.</h3>
+# hello, i'm delbyte
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=delbyte&label=Profile%20views&color=0e75b6&style=flat" alt="delbyte" /> </p>
+## i enjoy working on challenging things. i also enjoy making boatloads of money.
+i program typescript and am active on X. i've worked on multiple production grade websites and currently work on making people happy @ [NinjaTools](https://ninjatools.ai). 
 
-- i’m currently working on **identifying and preventing systemic misalignment in LLMs**
-
-- i’m currently learning **Rust for ML**
-
-- i’m looking for help with **breaking into AI**
-
-
-<h3 align="left">wanna talk? reach me here:</h3>
-<p align="left">
-<a href="https://x.com/delbyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="delbyte" height="30" width="40" /></a>
-<a <a href="https://www.linkedin.com/in/delbyte/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
+## work-
+1. Co-Founder, [NinjaTools](https://ninjatools.ai)
+2. Founding Engineer, Mentlya (upcoming)
+3. Co-ordination Manager, [Hackathon Raptors](https://raptors.dev)
+4. Founding Engineer, [LAOZ](https://laoz.framer.website)
+5. Technical Lead, [Catalyst Committee](catalyst-ioit.netlify.app)
+6. Freelancer (not taking projects currently)
 
 
-<h3 align="left">what i use to code:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=delbyte&show_icons=true&locale=en&layout=compact" alt="delbyte" /></p>
+## links (reach me here if you wanna talk)-
+1. [x](https://x.com/delbyte)
+2. [github](https://github.com/delbyte)
+3. [linkedin](linkedin.com/in/delbyte)
