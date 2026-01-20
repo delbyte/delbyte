@@ -8,7 +8,7 @@ i program typescript and am active on X. i've worked on multiple production grad
 2. Founding Engineer, Mentlya (upcoming)
 3. Co-ordination Manager, [Hackathon Raptors](https://raptors.dev)
 4. Founding Engineer, [LAOZ](https://laoz.framer.website)
-5. Technical Lead, [Catalyst Committee](catalyst-ioit.netlify.app)
+5. Technical Lead, [Catalyst Committee](https://catalyst-ioit.netlify.app)
 6. Freelancer (not taking projects currently)
 
 
