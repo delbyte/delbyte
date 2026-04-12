@@ -1,4 +1,4 @@
-# hello, i'm delbyte
+# hello, i'm Arnav
 
 ## i enjoy working on challenging things.
 i program typescript and am active on X. i've worked on multiple production grade websites and currently work on making people happy @ [NinjaTools](https://ninjatools.ai). 
