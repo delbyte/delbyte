@@ -1,7 +1,7 @@
 # hello, i'm Arnav
 
 ## i enjoy working on challenging things.
-i program typescript and am active on X. i've worked on multiple production grade websites and currently work on making people happy @ [NinjaTools](https://ninjatools.ai). 
+i program typescript and am active on X. i've worked on multiple multimillion dollar startups and currently work on making people happy @ [Hercules](https://hercules.app). 
 
 ## work-
 1. prev co-founder, [NinjaTools](https://ninjatools.ai)
