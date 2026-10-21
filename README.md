@@ -4,7 +4,7 @@
 i program typescript and am active on [x](https://x.com/delbyte). i've worked on multiple multimillion dollar startups and currently work on making people happy @ [Hercules](https://hercules.app). 
 
 ## work -
-1. software engineer, [Hercules](https://hercules.app) 
+1. founding software engineer, [Hercules](https://hercules.app) 
 2. prev co-founder, [NinjaTools](https://ninjatools.ai)
 3. founding engineer, Mentyla (upcoming)
 4. prev co-ordination manager, [Hackathon Raptors](https://raptors.dev)
